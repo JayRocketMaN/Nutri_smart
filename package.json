@@ -1,0 +1,25 @@
+{
+  "name": "nutri_smart",
+  "version": "1.0.0",
+  "description": "A simple mobile/web app that recommends meals and breakdown their nutritional content based on your preferences/health condition",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayRocketMaN/Nutri_smart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayRocketMaN/Nutri_smart/issues"
+  },
+  "homepage": "https://github.com/JayRocketMaN/Nutri_smart#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "nodemailer": "^7.0.10"
+  }
+}
